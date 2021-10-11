@@ -1,0 +1,8555 @@
+[
+  [
+    "Ghastly Eye Jewel",
+    {
+      "category": "Abyss Jewel",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/GhastlyEye.png"
+    }
+  ],
+  [
+    "Hypnotic Eye Jewel",
+    {
+      "category": "Abyss Jewel",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/RivetedEye.png"
+    }
+  ],
+  [
+    "Murderous Eye Jewel",
+    {
+      "category": "Abyss Jewel",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MurderousEye.png"
+    }
+  ],
+  [
+    "Searching Eye Jewel",
+    {
+      "category": "Abyss Jewel",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/SearchingEye.png"
+    }
+  ],
+  [
+    "Agate Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/AgateAmulet.png"
+    }
+  ],
+  [
+    "Amber Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet3.png"
+    }
+  ],
+  [
+    "Ashscale Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanWhite8.png"
+    }
+  ],
+  [
+    "Astrolabe Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/HeistAmulet1.png"
+    }
+  ],
+  [
+    "Avian Twins Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanBlack2.png"
+    }
+  ],
+  [
+    "Black Maw Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanWhite3.png"
+    }
+  ],
+  [
+    "Blue Pearl Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/BluePearlAmulet.png"
+    }
+  ],
+  [
+    "Bonespire Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanWhite7.png"
+    }
+  ],
+  [
+    "Breakrib Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanWhite1.png"
+    }
+  ],
+  [
+    "Chrysalis Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/NewTalisman2.png"
+    }
+  ],
+  [
+    "Citrine Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/CitrineAmulet.png"
+    }
+  ],
+  [
+    "Clutching Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanBlack3.png"
+    }
+  ],
+  [
+    "Coral Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet2.png"
+    }
+  ],
+  [
+    "Deadhand Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanWhite4.png"
+    }
+  ],
+  [
+    "Deep One Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanWhite5.png"
+    }
+  ],
+  [
+    "Fangjaw Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanBlack5.png"
+    }
+  ],
+  [
+    "Gold Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet6.png"
+    }
+  ],
+  [
+    "Greatwolf Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/T4Talisman.png"
+    }
+  ],
+  [
+    "Hexclaw Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanBlack6.png"
+    }
+  ],
+  [
+    "Horned Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/NewTalisman7.png"
+    }
+  ],
+  [
+    "Jade Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet4.png"
+    }
+  ],
+  [
+    "Jet Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanoftheVictor.png"
+    }
+  ],
+  [
+    "Lapis Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet5.png"
+    }
+  ],
+  [
+    "Lone Antler Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanWhite2.png"
+    }
+  ],
+  [
+    "Longtooth Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanRed4.png"
+    }
+  ],
+  [
+    "Mandible Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/NewTalisman.png"
+    }
+  ],
+  [
+    "Marble Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/MarbleAmulet.png"
+    }
+  ],
+  [
+    "Monkey Paw Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/MonkeyPawTalisman.png"
+    }
+  ],
+  [
+    "Monkey Twins Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanRed6.png"
+    }
+  ],
+  [
+    "Onyx Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet7.png"
+    }
+  ],
+  [
+    "Paua Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/Amulet1.png"
+    }
+  ],
+  [
+    "Primal Skull Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanBlack7.png"
+    }
+  ],
+  [
+    "Rot Head Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/FishTalisman.png"
+    }
+  ],
+  [
+    "Rotfeather Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanRed1.png"
+    }
+  ],
+  [
+    "Ruby Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/RubyAmulet.png"
+    }
+  ],
+  [
+    "Seaglass Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/CrescentAmulet.png"
+    }
+  ],
+  [
+    "Simplex Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/HeistAmulet2.png"
+    }
+  ],
+  [
+    "Spinefuse Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanRed3.png"
+    }
+  ],
+  [
+    "Splitnewt Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanBlack4.png"
+    }
+  ],
+  [
+    "Three Hands Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanRed8.png"
+    }
+  ],
+  [
+    "Three Rat Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanRed7.png"
+    }
+  ],
+  [
+    "Turquoise Amulet",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TurquoiseAmulet.png"
+    }
+  ],
+  [
+    "Undying Flesh Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TalismanWhite6.png"
+    }
+  ],
+  [
+    "Wereclaw Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/DireClawTalisman.png"
+    }
+  ],
+  [
+    "Writhing Talisman",
+    {
+      "category": "Amulet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/NewTalisman3.png"
+    }
+  ],
+  [
+    "Chain Belt",
+    {
+      "category": "Belt",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png"
+    }
+  ],
+  [
+    "Cloth Belt",
+    {
+      "category": "Belt",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt4.png"
+    }
+  ],
+  [
+    "Crystal Belt",
+    {
+      "category": "Belt",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/CrystalBelt.png"
+    }
+  ],
+  [
+    "Golden Obi",
+    {
+      "category": "Belt",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Demibelt1.png"
+    }
+  ],
+  [
+    "Heavy Belt",
+    {
+      "category": "Belt",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt5.png"
+    }
+  ],
+  [
+    "Leather Belt",
+    {
+      "category": "Belt",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt3.png"
+    }
+  ],
+  [
+    "Mechalarm Belt",
+    {
+      "category": "Belt",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/HeistBelt2.png"
+    }
+  ],
+  [
+    "Micro-Distillery Belt",
+    {
+      "category": "Belt",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/HeistBelt1.png"
+    }
+  ],
+  [
+    "Rustic Sash",
+    {
+      "category": "Belt",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt1.png"
+    }
+  ],
+  [
+    "Studded Belt",
+    {
+      "category": "Belt",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt6.png"
+    }
+  ],
+  [
+    "Stygian Vise",
+    {
+      "category": "Belt",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/AbyssBelt.png"
+    }
+  ],
+  [
+    "Vanguard Belt",
+    {
+      "category": "Belt",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt7.png"
+    }
+  ],
+  [
+    "Arena Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr2C.png"
+    }
+  ],
+  [
+    "Assassin's Garb",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex2C.png"
+    }
+  ],
+  [
+    "Astral Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr1C.png"
+    }
+  ],
+  [
+    "Battle Lamellar",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr4A.png"
+    }
+  ],
+  [
+    "Battle Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr2B.png"
+    }
+  ],
+  [
+    "Blood Raiment",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt1C.png"
+    }
+  ],
+  [
+    "Bone Armour",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt4C.png"
+    }
+  ],
+  [
+    "Bronze Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr1B.png"
+    }
+  ],
+  [
+    "Buckskin Tunic",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex1B.png"
+    }
+  ],
+  [
+    "Cabalist Regalia",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDexInt1C.png"
+    }
+  ],
+  [
+    "Carnal Armour",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt4C.png"
+    }
+  ],
+  [
+    "Chain Hauberk",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt2C.png"
+    }
+  ],
+  [
+    "Chainmail Doublet",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt2B.png"
+    }
+  ],
+  [
+    "Chainmail Tunic",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt2A.png"
+    }
+  ],
+  [
+    "Chainmail Vest",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt1A.png"
+    }
+  ],
+  [
+    "Chestplate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr2A.png"
+    }
+  ],
+  [
+    "Colosseum Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr2C.png"
+    }
+  ],
+  [
+    "Commander's Brigandine",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex2C.png"
+    }
+  ],
+  [
+    "Conjurer's Vestment",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt1C.png"
+    }
+  ],
+  [
+    "Conquest Chainmail",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt2B.png"
+    }
+  ],
+  [
+    "Copper Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr1B.png"
+    }
+  ],
+  [
+    "Coronal Leather",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex3C.png"
+    }
+  ],
+  [
+    "Crimson Raiment",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt1C.png"
+    }
+  ],
+  [
+    "Crusader Chainmail",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt2B.png"
+    }
+  ],
+  [
+    "Crusader Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr2B.png"
+    }
+  ],
+  [
+    "Crypt Armour",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt4C.png"
+    }
+  ],
+  [
+    "Cutthroat's Garb",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex2C.png"
+    }
+  ],
+  [
+    "Desert Brigandine",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex2B.png"
+    }
+  ],
+  [
+    "Destiny Leather",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex3B.png"
+    }
+  ],
+  [
+    "Destroyer Regalia",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDexInt1C.png"
+    }
+  ],
+  [
+    "Devout Chainmail",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt3C.png"
+    }
+  ],
+  [
+    "Dragonscale Doublet",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex1B.png"
+    }
+  ],
+  [
+    "Eelskin Tunic",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex1B.png"
+    }
+  ],
+  [
+    "Elegant Ringmail",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt1C.png"
+    }
+  ],
+  [
+    "Exquisite Leather",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex1C.png"
+    }
+  ],
+  [
+    "Field Lamellar",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr4A.png"
+    }
+  ],
+  [
+    "Frontier Leather",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex3B.png"
+    }
+  ],
+  [
+    "Full Chainmail",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt2C.png"
+    }
+  ],
+  [
+    "Full Dragonscale",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex1C.png"
+    }
+  ],
+  [
+    "Full Leather",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex1C.png"
+    }
+  ],
+  [
+    "Full Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr1C.png"
+    }
+  ],
+  [
+    "Full Ringmail",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt1C.png"
+    }
+  ],
+  [
+    "Full Scale Armour",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex1C.png"
+    }
+  ],
+  [
+    "Full Wyrmscale",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex1C.png"
+    }
+  ],
+  [
+    "General's Brigandine",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex2C.png"
+    }
+  ],
+  [
+    "Gladiator Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr2C.png"
+    }
+  ],
+  [
+    "Glorious Leather",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex1C.png"
+    }
+  ],
+  [
+    "Glorious Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr3C.png"
+    }
+  ],
+  [
+    "Golden Mantle",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/DemigodsArmour.png"
+    }
+  ],
+  [
+    "Golden Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr1B.png"
+    }
+  ],
+  [
+    "Grasping Mail",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/GraspingMail.png"
+    }
+  ],
+  [
+    "Holy Chainmail",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt3C.png"
+    }
+  ],
+  [
+    "Hussar Brigandine",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex2B.png"
+    }
+  ],
+  [
+    "Infantry Brigandine",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex2B.png"
+    }
+  ],
+  [
+    "Kaom's Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr3CUnique.png"
+    }
+  ],
+  [
+    "Lacquered Garb",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt2C.png"
+    }
+  ],
+  [
+    "Latticed Ringmail",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt1B.png"
+    }
+  ],
+  [
+    "Light Brigandine",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex2A.png"
+    }
+  ],
+  [
+    "Lordly Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr3C.png"
+    }
+  ],
+  [
+    "Loricated Ringmail",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt1B.png"
+    }
+  ],
+  [
+    "Mage's Vestment",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt1C.png"
+    }
+  ],
+  [
+    "Majestic Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr3C.png"
+    }
+  ],
+  [
+    "Necromancer Silks",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt2B.png"
+    }
+  ],
+  [
+    "Occultist's Vestment",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt1C.png"
+    }
+  ],
+  [
+    "Oiled Coat",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt2B.png"
+    }
+  ],
+  [
+    "Oiled Vest",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt2A.png"
+    }
+  ],
+  [
+    "Ornate Ringmail",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt1C.png"
+    }
+  ],
+  [
+    "Padded Jacket",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt1B.png"
+    }
+  ],
+  [
+    "Padded Vest",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt1A.png"
+    }
+  ],
+  [
+    "Plate Vest",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr1A.png"
+    }
+  ],
+  [
+    "Quilted Jacket",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt1B.png"
+    }
+  ],
+  [
+    "Ringmail Coat",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt1B.png"
+    }
+  ],
+  [
+    "Sacrificial Garb",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/SacrificialGarb.png"
+    }
+  ],
+  [
+    "Sadist Garb",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt2C.png"
+    }
+  ],
+  [
+    "Sage's Robe",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt1B.png"
+    }
+  ],
+  [
+    "Saint's Hauberk",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt2C.png"
+    }
+  ],
+  [
+    "Saintly Chainmail",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt3C.png"
+    }
+  ],
+  [
+    "Savant's Robe",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt1B.png"
+    }
+  ],
+  [
+    "Scale Doublet",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex1B.png"
+    }
+  ],
+  [
+    "Scale Vest",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex1A.png"
+    }
+  ],
+  [
+    "Scarlet Raiment",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt1C.png"
+    }
+  ],
+  [
+    "Scholar's Robe",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt1B.png"
+    }
+  ],
+  [
+    "Sentinel Jacket",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt1B.png"
+    }
+  ],
+  [
+    "Shabby Jerkin",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex1A.png"
+    }
+  ],
+  [
+    "Sharkskin Tunic",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex1B.png"
+    }
+  ],
+  [
+    "Silk Robe",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt2C.png"
+    }
+  ],
+  [
+    "Silken Garb",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt2B.png"
+    }
+  ],
+  [
+    "Silken Vest",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt2A.png"
+    }
+  ],
+  [
+    "Silken Wrap",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt2B.png"
+    }
+  ],
+  [
+    "Simple Robe",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt1A.png"
+    }
+  ],
+  [
+    "Sleek Coat",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt2B.png"
+    }
+  ],
+  [
+    "Soldier's Brigandine",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex2C.png"
+    }
+  ],
+  [
+    "Spidersilk Robe",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt2C.png"
+    }
+  ],
+  [
+    "Strapped Leather",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex3A.png"
+    }
+  ],
+  [
+    "Sun Leather",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex3C.png"
+    }
+  ],
+  [
+    "Sun Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr1C.png"
+    }
+  ],
+  [
+    "Thief's Garb",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex2C.png"
+    }
+  ],
+  [
+    "Triumphant Lamellar",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr4A.png"
+    }
+  ],
+  [
+    "Vaal Regalia",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDexInt1C.png"
+    }
+  ],
+  [
+    "Varnished Coat",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt2B.png"
+    }
+  ],
+  [
+    "War Plate",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStr2B.png"
+    }
+  ],
+  [
+    "Waxed Garb",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt2C.png"
+    }
+  ],
+  [
+    "Widowsilk Robe",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyInt2C.png"
+    }
+  ],
+  [
+    "Wild Leather",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex3B.png"
+    }
+  ],
+  [
+    "Wyrmscale Doublet",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrDex1B.png"
+    }
+  ],
+  [
+    "Zodiac Leather",
+    {
+      "category": "Body Armour",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex3C.png"
+    }
+  ],
+  [
+    "Ambush Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexInt3.png"
+    }
+  ],
+  [
+    "Ancient Greaves",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStr3.png"
+    }
+  ],
+  [
+    "Antique Greaves",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStr2.png"
+    }
+  ],
+  [
+    "Arcanist Slippers",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsInt3.png"
+    }
+  ],
+  [
+    "Assassin's Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexInt3.png"
+    }
+  ],
+  [
+    "Avian Slippers",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsInt1.png"
+    }
+  ],
+  [
+    "Basemetal Treads",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RitualStrBoots.png"
+    }
+  ],
+  [
+    "Brimstone Treads",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RitualStrBoots.png"
+    }
+  ],
+  [
+    "Bronzescale Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDex3.png"
+    }
+  ],
+  [
+    "Carnal Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexInt4.png"
+    }
+  ],
+  [
+    "Chain Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt1.png"
+    }
+  ],
+  [
+    "Clasped Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexInt3.png"
+    }
+  ],
+  [
+    "Cloudwhisper Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RitualDexBoots.png"
+    }
+  ],
+  [
+    "Conjurer Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsInt4.png"
+    }
+  ],
+  [
+    "Crusader Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt3.png"
+    }
+  ],
+  [
+    "Darksteel Treads",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RitualStrBoots.png"
+    }
+  ],
+  [
+    "Deerskin Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDex3.png"
+    }
+  ],
+  [
+    "Dragonscale Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDex3.png"
+    }
+  ],
+  [
+    "Dreamquest Slippers",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RitualIntBoots.png"
+    }
+  ],
+  [
+    "Duskwalk Slippers",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RitualIntBoots.png"
+    }
+  ],
+  [
+    "Eelskin Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDex2.png"
+    }
+  ],
+  [
+    "Fugitive Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/HalfTonedBoots.png"
+    }
+  ],
+  [
+    "Goathide Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDex2.png"
+    }
+  ],
+  [
+    "Golden Caligae",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/DemigodsStride.png"
+    }
+  ],
+  [
+    "Goliath Greaves",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStr4.png"
+    }
+  ],
+  [
+    "Hydrascale Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDex2.png"
+    }
+  ],
+  [
+    "Iron Greaves",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStr1.png"
+    }
+  ],
+  [
+    "Ironscale Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDex2.png"
+    }
+  ],
+  [
+    "Kaom's Greaves",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStr4.png"
+    }
+  ],
+  [
+    "Leatherscale Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDex1.png"
+    }
+  ],
+  [
+    "Legion Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt2.png"
+    }
+  ],
+  [
+    "Mesh Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt3.png"
+    }
+  ],
+  [
+    "Murder Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexInt4.png"
+    }
+  ],
+  [
+    "Nightwind Slippers",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RitualIntBoots.png"
+    }
+  ],
+  [
+    "Nubuck Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDex4.png"
+    }
+  ],
+  [
+    "Plated Greaves",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStr3.png"
+    }
+  ],
+  [
+    "Rawhide Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDex1.png"
+    }
+  ],
+  [
+    "Reinforced Greaves",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStr4.png"
+    }
+  ],
+  [
+    "Ringmail Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt2.png"
+    }
+  ],
+  [
+    "Riveted Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt1.png"
+    }
+  ],
+  [
+    "Runic Greaves",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/SpiritBootsBaseType.png"
+    }
+  ],
+  [
+    "Runic Sabatons",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/SpiritBootsBaseType.png"
+    }
+  ],
+  [
+    "Runic Sollerets",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/SpiritBootsBaseType.png"
+    }
+  ],
+  [
+    "Samite Slippers",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsInt3.png"
+    }
+  ],
+  [
+    "Satin Slippers",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsInt2.png"
+    }
+  ],
+  [
+    "Scholar Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsInt4.png"
+    }
+  ],
+  [
+    "Serpentscale Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDex2.png"
+    }
+  ],
+  [
+    "Shackled Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexInt4.png"
+    }
+  ],
+  [
+    "Shagreen Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDex4.png"
+    }
+  ],
+  [
+    "Sharkskin Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDex3.png"
+    }
+  ],
+  [
+    "Silk Slippers",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsInt3.png"
+    }
+  ],
+  [
+    "Slink Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDex4.png"
+    }
+  ],
+  [
+    "Soldier Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt3.png"
+    }
+  ],
+  [
+    "Sorcerer Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsInt4.png"
+    }
+  ],
+  [
+    "Stealth Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDex3.png"
+    }
+  ],
+  [
+    "Steel Greaves",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStr2.png"
+    }
+  ],
+  [
+    "Steelscale Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDex1.png"
+    }
+  ],
+  [
+    "Stormrider Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RitualDexBoots.png"
+    }
+  ],
+  [
+    "Strapped Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexInt2.png"
+    }
+  ],
+  [
+    "Titan Greaves",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStr4.png"
+    }
+  ],
+  [
+    "Trapper Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexInt2.png"
+    }
+  ],
+  [
+    "Two-Toned Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/TwoTonedBoots3B.png"
+    }
+  ],
+  [
+    "Vaal Greaves",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStr3.png"
+    }
+  ],
+  [
+    "Velvet Slippers",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsInt2.png"
+    }
+  ],
+  [
+    "Windbreak Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/RitualDexBoots.png"
+    }
+  ],
+  [
+    "Wool Shoes",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsInt1.png"
+    }
+  ],
+  [
+    "Wrapped Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexInt1.png"
+    }
+  ],
+  [
+    "Wyrmscale Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrDex3.png"
+    }
+  ],
+  [
+    "Zealot Boots",
+    {
+      "category": "Boots",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsStrInt2.png"
+    }
+  ],
+  [
+    "Assassin Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow5.png"
+    }
+  ],
+  [
+    "Bone Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow6.png"
+    }
+  ],
+  [
+    "Citadel Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow3.png"
+    }
+  ],
+  [
+    "Composite Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow4.png"
+    }
+  ],
+  [
+    "Compound Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow4.png"
+    }
+  ],
+  [
+    "Crude Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow1.png"
+    }
+  ],
+  [
+    "Death Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow8.png"
+    }
+  ],
+  [
+    "Decimation Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow8.png"
+    }
+  ],
+  [
+    "Decurve Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow3.png"
+    }
+  ],
+  [
+    "Foundry Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/HeistBowFire.png"
+    }
+  ],
+  [
+    "Grove Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow2.png"
+    }
+  ],
+  [
+    "Harbinger Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow8.png"
+    }
+  ],
+  [
+    "Hedron Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/HeistBowFire.png"
+    }
+  ],
+  [
+    "Highborn Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow7.png"
+    }
+  ],
+  [
+    "Imperial Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow7.png"
+    }
+  ],
+  [
+    "Ivory Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow6.png"
+    }
+  ],
+  [
+    "Long Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow3.png"
+    }
+  ],
+  [
+    "Maraketh Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow9.png"
+    }
+  ],
+  [
+    "Ranger Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow4.png"
+    }
+  ],
+  [
+    "Recurve Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow5.png"
+    }
+  ],
+  [
+    "Reflex Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow9.png"
+    }
+  ],
+  [
+    "Royal Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow7.png"
+    }
+  ],
+  [
+    "Short Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow2.png"
+    }
+  ],
+  [
+    "Sniper Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow5.png"
+    }
+  ],
+  [
+    "Solarine Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/HeistBowFire.png"
+    }
+  ],
+  [
+    "Spine Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow6.png"
+    }
+  ],
+  [
+    "Steelwood Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow9.png"
+    }
+  ],
+  [
+    "Thicket Bow",
+    {
+      "category": "Bow",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/Bow2.png"
+    }
+  ],
+  [
+    "Awl",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw3.png"
+    }
+  ],
+  [
+    "Blinder",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw5.png"
+    }
+  ],
+  [
+    "Cat's Paw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw4.png"
+    }
+  ],
+  [
+    "Double Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw9.png"
+    }
+  ],
+  [
+    "Eagle Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw8.png"
+    }
+  ],
+  [
+    "Eye Gouger",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw5.png"
+    }
+  ],
+  [
+    "Fright Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw8.png"
+    }
+  ],
+  [
+    "Gemini Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw9.png"
+    }
+  ],
+  [
+    "Gouger",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw3.png"
+    }
+  ],
+  [
+    "Great White Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw2.png"
+    }
+  ],
+  [
+    "Gut Ripper",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw5.png"
+    }
+  ],
+  [
+    "Hellion's Paw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw4.png"
+    }
+  ],
+  [
+    "Imperial Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw7.png"
+    }
+  ],
+  [
+    "Malign Fangs",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/HeistClaw.png"
+    }
+  ],
+  [
+    "Nailed Fist",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw1.png"
+    }
+  ],
+  [
+    "Noble Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw7.png"
+    }
+  ],
+  [
+    "Prehistoric Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw6.png"
+    }
+  ],
+  [
+    "Shadow Fangs",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/HeistClaw.png"
+    }
+  ],
+  [
+    "Sharktooth Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw2.png"
+    }
+  ],
+  [
+    "Sparkling Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw7.png"
+    }
+  ],
+  [
+    "Terror Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw8.png"
+    }
+  ],
+  [
+    "Thresher Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw2.png"
+    }
+  ],
+  [
+    "Throat Stabber",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw3.png"
+    }
+  ],
+  [
+    "Tiger's Paw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw4.png"
+    }
+  ],
+  [
+    "Timeworn Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw6.png"
+    }
+  ],
+  [
+    "Twin Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw9.png"
+    }
+  ],
+  [
+    "Vaal Claw",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw6.png"
+    }
+  ],
+  [
+    "Void Fangs",
+    {
+      "category": "Claw",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/HeistClaw.png"
+    }
+  ],
+  [
+    "Large Cluster Jewel",
+    {
+      "category": "Cluster Jewel",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/NewGemBase3.png"
+    }
+  ],
+  [
+    "Medium Cluster Jewel",
+    {
+      "category": "Cluster Jewel",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/NewGemBase2.png"
+    }
+  ],
+  [
+    "Small Cluster Jewel",
+    {
+      "category": "Cluster Jewel",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/NewGemBase1.png"
+    }
+  ],
+  [
+    "Ambusher",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger4.png"
+    }
+  ],
+  [
+    "Ethereal Blade",
+    {
+      "category": "Dagger"
+    }
+  ],
+  [
+    "Flaying Knife",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger2.png"
+    }
+  ],
+  [
+    "Glass Shank",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger1.png"
+    }
+  ],
+  [
+    "Gutting Knife",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger2.png"
+    }
+  ],
+  [
+    "Hollowpoint Dagger",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/HeistDagger.png"
+    }
+  ],
+  [
+    "Pneumatic Dagger",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/HeistDagger.png"
+    }
+  ],
+  [
+    "Poignard",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger4.png"
+    }
+  ],
+  [
+    "Pressurised Dagger",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/HeistDagger.png"
+    }
+  ],
+  [
+    "Prong Dagger",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger9.png"
+    }
+  ],
+  [
+    "Sai",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger9.png"
+    }
+  ],
+  [
+    "Skinning Knife",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger2.png"
+    }
+  ],
+  [
+    "Stiletto",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger4.png"
+    }
+  ],
+  [
+    "Trisula",
+    {
+      "category": "Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger9.png"
+    }
+  ],
+  [
+    "Expedition Logbook",
+    {
+      "category": "Expedition Logbook"
+    }
+  ],
+  [
+    "Fishing Rod",
+    {
+      "category": "Fishing Rod",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/FishingRods/FishingRod1.png"
+    }
+  ],
+  [
+    "Amethyst Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Aquamarine Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Basalt Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Bismuth Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Colossal Hybrid Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Colossal Life Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Colossal Mana Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Corundum Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Diamond Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Divine Life Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Divine Mana Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Eternal Life Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Eternal Mana Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Giant Life Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Giant Mana Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Gold Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Grand Life Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Grand Mana Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Granite Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Greater Life Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Greater Mana Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Hallowed Hybrid Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Hallowed Life Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Hallowed Mana Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Iron Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Jade Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Large Hybrid Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Large Life Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Large Mana Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Medium Hybrid Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Medium Life Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Medium Mana Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Quartz Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Quicksilver Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Ruby Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Sacred Hybrid Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Sacred Life Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Sacred Mana Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Sanctified Life Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Sanctified Mana Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Sapphire Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Silver Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Small Hybrid Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Small Life Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Small Mana Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Stibnite Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Sulphur Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Topaz Flask",
+    {
+      "category": "Flask"
+    }
+  ],
+  [
+    "Aetherwind Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/RitualIntGloves.png"
+    }
+  ],
+  [
+    "Ambush Mitts",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDexInt2.png"
+    }
+  ],
+  [
+    "Ancient Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr3.png"
+    }
+  ],
+  [
+    "Antique Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr2.png"
+    }
+  ],
+  [
+    "Apothecary's Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/ChemistGloves.png"
+    }
+  ],
+  [
+    "Arcanist Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt3.png"
+    }
+  ],
+  [
+    "Assassin's Mitts",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDexInt2.png"
+    }
+  ],
+  [
+    "Bronze Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr3.png"
+    }
+  ],
+  [
+    "Bronzescale Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrDex3.png"
+    }
+  ],
+  [
+    "Carnal Mitts",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDexInt3.png"
+    }
+  ],
+  [
+    "Chain Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrInt1.png"
+    }
+  ],
+  [
+    "Clasped Mitts",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDexInt3.png"
+    }
+  ],
+  [
+    "Conjurer Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt4.png"
+    }
+  ],
+  [
+    "Crusader Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrInt3.png"
+    }
+  ],
+  [
+    "Debilitation Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/RitualStrGloves.png"
+    }
+  ],
+  [
+    "Deerskin Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDex3.png"
+    }
+  ],
+  [
+    "Dragonscale Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrDex3.png"
+    }
+  ],
+  [
+    "Eelskin Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDex2.png"
+    }
+  ],
+  [
+    "Embroidered Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt4.png"
+    }
+  ],
+  [
+    "Fingerless Silk Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/FingerlessSilkGloves.png"
+    }
+  ],
+  [
+    "Fishscale Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrDex1.png"
+    }
+  ],
+  [
+    "Gauche Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/RitualDexGloves.png"
+    }
+  ],
+  [
+    "Goathide Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDex2.png"
+    }
+  ],
+  [
+    "Golden Bracers",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/DemigodsTouch.png"
+    }
+  ],
+  [
+    "Goliath Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr4.png"
+    }
+  ],
+  [
+    "Gripped Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GripGlovesBaseType.png"
+    }
+  ],
+  [
+    "Gruelling Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/RitualStrGloves.png"
+    }
+  ],
+  [
+    "Hydrascale Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrDex2.png"
+    }
+  ],
+  [
+    "Iron Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr1.png"
+    }
+  ],
+  [
+    "Ironscale Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrDex2.png"
+    }
+  ],
+  [
+    "Legion Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrInt2.png"
+    }
+  ],
+  [
+    "Leyline Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/RitualIntGloves.png"
+    }
+  ],
+  [
+    "Mesh Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrInt3.png"
+    }
+  ],
+  [
+    "Murder Mitts",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDexInt3.png"
+    }
+  ],
+  [
+    "Nexus Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/RitualIntGloves.png"
+    }
+  ],
+  [
+    "Nubuck Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDex4.png"
+    }
+  ],
+  [
+    "Plated Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr2.png"
+    }
+  ],
+  [
+    "Rawhide Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDex1.png"
+    }
+  ],
+  [
+    "Ringmail Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrInt2.png"
+    }
+  ],
+  [
+    "Riveted Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrInt1.png"
+    }
+  ],
+  [
+    "Runic Gages",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/SpiritGlovesBaseType.png"
+    }
+  ],
+  [
+    "Runic Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/SpiritGlovesBaseType.png"
+    }
+  ],
+  [
+    "Runic Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/SpiritGlovesBaseType.png"
+    }
+  ],
+  [
+    "Samite Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt3.png"
+    }
+  ],
+  [
+    "Satin Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt2.png"
+    }
+  ],
+  [
+    "Serpentscale Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrDex2.png"
+    }
+  ],
+  [
+    "Shagreen Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDex4.png"
+    }
+  ],
+  [
+    "Sharkskin Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDex3.png"
+    }
+  ],
+  [
+    "Silk Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt3.png"
+    }
+  ],
+  [
+    "Sinistral Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/RitualDexGloves.png"
+    }
+  ],
+  [
+    "Slink Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDex4.png"
+    }
+  ],
+  [
+    "Soldier Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrInt3.png"
+    }
+  ],
+  [
+    "Sorcerer Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt4.png"
+    }
+  ],
+  [
+    "Southswing Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/RitualDexGloves.png"
+    }
+  ],
+  [
+    "Spiked Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/SpikedGloves.png"
+    }
+  ],
+  [
+    "Stealth Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDex3.png"
+    }
+  ],
+  [
+    "Steel Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr4.png"
+    }
+  ],
+  [
+    "Steelscale Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrDex1.png"
+    }
+  ],
+  [
+    "Strapped Mitts",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDexInt2.png"
+    }
+  ],
+  [
+    "Taxing Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/RitualStrGloves.png"
+    }
+  ],
+  [
+    "Titan Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr4.png"
+    }
+  ],
+  [
+    "Trapper Mitts",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDexInt1.png"
+    }
+  ],
+  [
+    "Vaal Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr3.png"
+    }
+  ],
+  [
+    "Velvet Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt2.png"
+    }
+  ],
+  [
+    "Wool Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesInt1.png"
+    }
+  ],
+  [
+    "Wrapped Mitts",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesDexInt1.png"
+    }
+  ],
+  [
+    "Wyrmscale Gauntlets",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrDex3.png"
+    }
+  ],
+  [
+    "Zealot Gloves",
+    {
+      "category": "Gloves",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStrInt2.png"
+    }
+  ],
+  [
+    "Blueprint: Bunker",
+    {
+      "category": "Heist Blueprint"
+    }
+  ],
+  [
+    "Blueprint: Laboratory",
+    {
+      "category": "Heist Blueprint"
+    }
+  ],
+  [
+    "Blueprint: Mansion",
+    {
+      "category": "Heist Blueprint"
+    }
+  ],
+  [
+    "Blueprint: Prohibited Library",
+    {
+      "category": "Heist Blueprint"
+    }
+  ],
+  [
+    "Blueprint: Records Office",
+    {
+      "category": "Heist Blueprint"
+    }
+  ],
+  [
+    "Blueprint: Repository",
+    {
+      "category": "Heist Blueprint"
+    }
+  ],
+  [
+    "Blueprint: Smuggler's Den",
+    {
+      "category": "Heist Blueprint"
+    }
+  ],
+  [
+    "Blueprint: Tunnels",
+    {
+      "category": "Heist Blueprint"
+    }
+  ],
+  [
+    "Blueprint: Underbelly",
+    {
+      "category": "Heist Blueprint"
+    }
+  ],
+  [
+    "[UNUSED] Heist Test Reward Equipment",
+    {
+      "category": "Heist Brooch"
+    }
+  ],
+  [
+    "Enamel Brooch",
+    {
+      "category": "Heist Brooch"
+    }
+  ],
+  [
+    "Foliate Brooch",
+    {
+      "category": "Heist Brooch"
+    }
+  ],
+  [
+    "Golden Brooch",
+    {
+      "category": "Heist Brooch"
+    }
+  ],
+  [
+    "Silver Brooch",
+    {
+      "category": "Heist Brooch"
+    }
+  ],
+  [
+    "[UNUSED] Heist Test Utility Equipment",
+    {
+      "category": "Heist Cloak"
+    }
+  ],
+  [
+    "Hooded Cloak",
+    {
+      "category": "Heist Cloak"
+    }
+  ],
+  [
+    "Tattered Cloak",
+    {
+      "category": "Heist Cloak"
+    }
+  ],
+  [
+    "Torn Cloak",
+    {
+      "category": "Heist Cloak"
+    }
+  ],
+  [
+    "Whisper-woven Cloak",
+    {
+      "category": "Heist Cloak"
+    }
+  ],
+  [
+    "Contract: Bunker",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Contract: Laboratory",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Contract: Mansion",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Contract: Prohibited Library",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Contract: Records Office",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Contract: Repository",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Contract: Smuggler's Den",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Contract: Tunnels",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Contract: Underbelly",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Familial Contract",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Forbidden Contract",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Naval Contract",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Preventative Contract",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Vengeful Contract",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "Vigilante Contract",
+    {
+      "category": "Heist Contract"
+    }
+  ],
+  [
+    "[UNUSED] Heist Test Weapon",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "Aggregator Charm",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "Burst Band",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "Conduit Line",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "Fine Sharpening Stone",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "Flanged Arrowhead",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "Focal Stone",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "Fragmenting Arrowhead",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "Hollowpoint Arrowhead",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "Obsidian Sharpening Stone",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "Precise Arrowhead",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "Rough Sharpening Stone",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "Standard Sharpening Stone",
+    {
+      "category": "Heist Gear"
+    }
+  ],
+  [
+    "[UNUSED] Heist Test Tool",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Azurite Flashpowder",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Basic Disguise Kit",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Crude Sensing Charm",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Crude Ward",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Eelskin Sole",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Espionage Disguise Kit",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Essential Keyring",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Fine Lockpick",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Fine Sensing Charm",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Flanged Drill",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Foxhide Sole",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Grandmaster Keyring",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Leather Bracers",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Lustrous Ward",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Master Lockpick",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Polished Sensing Charm",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Regicide Disguise Kit",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Runed Bracers",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Shining Ward",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Silkweave Sole",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Simple Lockpick",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Skeleton Keyring",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Standard Lockpick",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Steel Bracers",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Steel Drill",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Studded Bracers",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Sulphur Blowtorch",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Thaumaturgical Sensing Charm",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Thaumaturgical Ward",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Thaumetic Blowtorch",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Thaumetic Flashpowder",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Theatre Disguise Kit",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Trarthan Flashpowder",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Versatile Keyring",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Voltaxic Flashpowder",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Winged Sole",
+    {
+      "category": "Heist Tool"
+    }
+  ],
+  [
+    "Archdemon Crown",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MaskCrown.png"
+    }
+  ],
+  [
+    "Atonement Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDexR.png"
+    }
+  ],
+  [
+    "Aventail Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrInt5.png"
+    }
+  ],
+  [
+    "Barbute Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr3.png"
+    }
+  ],
+  [
+    "Battered Helm",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex1.png"
+    }
+  ],
+  [
+    "Blizzard Crown",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexIntR.png"
+    }
+  ],
+  [
+    "Bone Circlet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt5.png"
+    }
+  ],
+  [
+    "Bone Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/BoneHelm.png"
+    }
+  ],
+  [
+    "Callous Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt7.png"
+    }
+  ],
+  [
+    "Close Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr4.png"
+    }
+  ],
+  [
+    "Cone Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr2.png"
+    }
+  ],
+  [
+    "Crusader Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrInt4.png"
+    }
+  ],
+  [
+    "Deicide Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt11.png"
+    }
+  ],
+  [
+    "Demon Crown",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MaskCrown.png"
+    }
+  ],
+  [
+    "Eternal Burgonet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr11.png"
+    }
+  ],
+  [
+    "Ezomyte Burgonet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr9.png"
+    }
+  ],
+  [
+    "Fencer Helm",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex6.png"
+    }
+  ],
+  [
+    "Festival Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt4.png"
+    }
+  ],
+  [
+    "Fluted Bascinet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex8.png"
+    }
+  ],
+  [
+    "Gale Crown",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexIntR.png"
+    }
+  ],
+  [
+    "Gilded Sallet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex4.png"
+    }
+  ],
+  [
+    "Gladiator Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr5.png"
+    }
+  ],
+  [
+    "Golden Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt5.png"
+    }
+  ],
+  [
+    "Golden Visage",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/DemigodsImmortality.png"
+    }
+  ],
+  [
+    "Golden Wreath",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/Demigodstriumph.png"
+    }
+  ],
+  [
+    "Great Crown",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrInt7.png"
+    }
+  ],
+  [
+    "Great Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrInt3.png"
+    }
+  ],
+  [
+    "Harlequin Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt9.png"
+    }
+  ],
+  [
+    "Hubris Circlet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt11.png"
+    }
+  ],
+  [
+    "Hunter Hood",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDex5.png"
+    }
+  ],
+  [
+    "Imp Crown",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/MaskCrown.png"
+    }
+  ],
+  [
+    "Iron Circlet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt2.png"
+    }
+  ],
+  [
+    "Iron Hat",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr1.png"
+    }
+  ],
+  [
+    "Iron Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt3.png"
+    }
+  ],
+  [
+    "Lacquered Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex7.png"
+    }
+  ],
+  [
+    "Leather Cap",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDex1.png"
+    }
+  ],
+  [
+    "Leather Hood",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDex3.png"
+    }
+  ],
+  [
+    "Lion Pelt",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDex10.png"
+    }
+  ],
+  [
+    "Lunaris Circlet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt6.png"
+    }
+  ],
+  [
+    "Magistrate Crown",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrInt8.png"
+    }
+  ],
+  [
+    "Mind Cage",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt10.png"
+    }
+  ],
+  [
+    "Necromancer Circlet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt8.png"
+    }
+  ],
+  [
+    "Nightmare Bascinet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex10.png"
+    }
+  ],
+  [
+    "Noble Tricorne",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDex6.png"
+    }
+  ],
+  [
+    "Penitent Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDexR.png"
+    }
+  ],
+  [
+    "Pig-Faced Bascinet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex9.png"
+    }
+  ],
+  [
+    "Plague Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt2.png"
+    }
+  ],
+  [
+    "Praetor Crown",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrInt10.png"
+    }
+  ],
+  [
+    "Prophet Crown",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrInt9.png"
+    }
+  ],
+  [
+    "Raven Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt6.png"
+    }
+  ],
+  [
+    "Reaver Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr6.png"
+    }
+  ],
+  [
+    "Regicide Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt8.png"
+    }
+  ],
+  [
+    "Royal Burgonet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr10.png"
+    }
+  ],
+  [
+    "Runic Crest",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/SpiritHelmetBaseType.png"
+    }
+  ],
+  [
+    "Runic Crown",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/SpiritHelmetBaseType.png"
+    }
+  ],
+  [
+    "Runic Helm",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/SpiritHelmetBaseType.png"
+    }
+  ],
+  [
+    "Rusted Coif",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrInt1.png"
+    }
+  ],
+  [
+    "Sallet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex2.png"
+    }
+  ],
+  [
+    "Samnite Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr8.png"
+    }
+  ],
+  [
+    "Scare Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt1.png"
+    }
+  ],
+  [
+    "Secutor Helm",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex5.png"
+    }
+  ],
+  [
+    "Siege Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStr7.png"
+    }
+  ],
+  [
+    "Silken Hood",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDex8.png"
+    }
+  ],
+  [
+    "Sinner Tricorne",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDex9.png"
+    }
+  ],
+  [
+    "Solaris Circlet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt9.png"
+    }
+  ],
+  [
+    "Soldier Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrInt2.png"
+    }
+  ],
+  [
+    "Sorrow Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDexR.png"
+    }
+  ],
+  [
+    "Steel Circlet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt7.png"
+    }
+  ],
+  [
+    "Torture Cage",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt3.png"
+    }
+  ],
+  [
+    "Tribal Circlet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt4.png"
+    }
+  ],
+  [
+    "Tricorne",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDex2.png"
+    }
+  ],
+  [
+    "Ursine Pelt",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDex7.png"
+    }
+  ],
+  [
+    "Vaal Mask",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexInt10.png"
+    }
+  ],
+  [
+    "Vine Circlet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt1.png"
+    }
+  ],
+  [
+    "Visored Sallet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrDex3.png"
+    }
+  ],
+  [
+    "Winter Crown",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDexIntR.png"
+    }
+  ],
+  [
+    "Wolf Pelt",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetDex4.png"
+    }
+  ],
+  [
+    "Zealot Helmet",
+    {
+      "category": "Helmet",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetStrInt6.png"
+    }
+  ],
+  [
+    "Cobalt Jewel",
+    {
+      "category": "Jewel",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/basicint.png"
+    }
+  ],
+  [
+    "Crimson Jewel",
+    {
+      "category": "Jewel",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/basicstr.png"
+    }
+  ],
+  [
+    "Prismatic Jewel",
+    {
+      "category": "Jewel",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Mastery.png"
+    }
+  ],
+  [
+    "Timeless Jewel",
+    {
+      "category": "Jewel",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/Timeless.png"
+    }
+  ],
+  [
+    "Viridian Jewel",
+    {
+      "category": "Jewel",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/basicdex.png"
+    }
+  ],
+  [
+    "Academy Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Acid Caverns Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Alleyways Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Ancient City Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Arachnid Nest Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Arachnid Tomb Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Arcade Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Arena Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Arid Lake Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Armoury Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Arsenal Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Ashen Wood Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Atoll Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Barrows Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Basilica Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Bazaar Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Beach Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Belfry Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Bog Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Bone Crypt Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Bramble Valley Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Burial Chambers Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Cage Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Caldera Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Canyon Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Carcass Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Castle Ruins Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Cells Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Cemetery Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Channel Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Chateau Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "City Square Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Cold River Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Colonnade Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Colosseum Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Conservatory Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Coral Ruins Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Core Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Courthouse Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Courtyard Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Coves Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Crater Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Crimson Temple Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Crimson Township Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Crystal Ore Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Cursed Crypt Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Dark Forest Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Defiled Cathedral Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Desert Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Desert Spring Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Dig Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Dry Sea Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Dunes Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Dungeon Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Estuary Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Excavation Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Factory Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Fields Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Flooded Mine Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Forbidden Woods Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Forge of the Phoenix Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Forking River Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Foundry Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Frozen Cabins Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Fungal Hollow Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Gardens Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Geode Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Ghetto Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Glacier Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Grave Trough Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Graveyard Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Grotto Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Harbinger Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Haunted Mansion Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Iceberg Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Infested Valley Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Ivory Temple Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Jungle Valley Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Laboratory Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Lair Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Lair of the Hydra Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Lava Chamber Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Lava Lake Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Leyline Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Lighthouse Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Lookout Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Malformation Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Marshes Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Mausoleum Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Maze Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Maze of the Minotaur Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Mesa Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Mineral Pools Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Moon Temple Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Mud Geyser Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Museum Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Necropolis Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Orchard Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Overgrown Ruin Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Overgrown Shrine Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Palace Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Park Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Pen Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Peninsula Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Phantasmagoria Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Pier Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Pit Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Pit of the Chimera Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Plateau Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Plaza Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Port Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Precinct Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Primordial Blocks Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Primordial Pool Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Promenade Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Racecourse Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Ramparts Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Reef Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Relic Chambers Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Residence Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Scriptorium Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Sepulchre Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Academy Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Acid Caverns Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Ancient City Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Arachnid Nest Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Arachnid Tomb Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Arcade Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Arena Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Arid Lake Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Armoury Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Arsenal Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Ashen Wood Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Atoll Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Barrows Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Beach Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Bog Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Bone Crypt Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Burial Chambers Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Canyon Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Castle Ruins Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Cells Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Cemetery Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Channel Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Colonnade Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Courtyard Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Coves Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Crystal Ore Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Cursed Crypt Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Desert Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Desert Spring Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Dunes Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Dungeon Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Factory Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Flooded Mine Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Gardens Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Geode Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Ghetto Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Graveyard Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Grotto Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Jungle Valley Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Malformation Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Marshes Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Mesa Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Mud Geyser Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Museum Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Orchard Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Overgrown Shrine Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Peninsula Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Phantasmagoria Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Pier Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Pit Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Port Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Primordial Pool Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Promenade Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Racecourse Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Ramparts Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Reef Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Shore Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Spider Forest Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Spider Lair Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Strand Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Temple Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Thicket Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Tower Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Toxic Sewer Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Tropical Island Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Underground River Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Vaal Pyramid Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Villa Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Waste Pool Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shaped Wharf Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shipyard Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shore Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Shrine Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Siege Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Silo Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Spider Forest Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Spider Lair Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Stagnation Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Strand Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Sulphur Vents Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Summit Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Sunken City Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Temple Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Terrace Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "The Shaper's Realm",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Thicket Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Tower Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Toxic Sewer Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Tropical Island Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Underground River Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Underground Sea Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Vaal Pyramid Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Vaal Temple Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Vault Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Villa Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Volcano Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Waste Pool Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Wasteland Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Waterways Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Wharf Map",
+    {
+      "category": "Map"
+    }
+  ],
+  [
+    "Maven's Invitation: Glennach Cairns",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Maven's Invitation: Haewark Hamlet",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Maven's Invitation: Lex Ejoris",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Maven's Invitation: Lex Proxima",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Maven's Invitation: Lira Arthain",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Maven's Invitation: New Vastir",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Maven's Invitation: The Feared",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Maven's Invitation: The Forgotten",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Maven's Invitation: The Formed",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Maven's Invitation: The Hidden",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Maven's Invitation: The Twisted",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Maven's Invitation: Tirn's End",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Maven's Invitation: Valdo's Rest",
+    {
+      "category": "Maven's Invitation"
+    }
+  ],
+  [
+    "Arming Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe6.png"
+    }
+  ],
+  [
+    "Boarding Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe3.png"
+    }
+  ],
+  [
+    "Broad Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe5.png"
+    }
+  ],
+  [
+    "Butcher Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe5.png"
+    }
+  ],
+  [
+    "Ceremonial Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe7.png"
+    }
+  ],
+  [
+    "Chest Splitter",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe6.png"
+    }
+  ],
+  [
+    "Cleaver",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe4.png"
+    }
+  ],
+  [
+    "Decorative Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe7.png"
+    }
+  ],
+  [
+    "Disapprobation Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/HeistOnehandAxe.png"
+    }
+  ],
+  [
+    "Engraved Hatchet",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe9.png"
+    }
+  ],
+  [
+    "Etched Hatchet",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe9.png"
+    }
+  ],
+  [
+    "Infernal Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe8.png"
+    }
+  ],
+  [
+    "Jade Hatchet",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe2.png"
+    }
+  ],
+  [
+    "Jasper Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe2.png"
+    }
+  ],
+  [
+    "Karui Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe2.png"
+    }
+  ],
+  [
+    "Maltreatment Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/HeistOnehandAxe.png"
+    }
+  ],
+  [
+    "Psychotic Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/HeistOnehandAxe.png"
+    }
+  ],
+  [
+    "Reaver Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe4.png"
+    }
+  ],
+  [
+    "Royal Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe7.png"
+    }
+  ],
+  [
+    "Runic Hatchet",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe9.png"
+    }
+  ],
+  [
+    "Rusted Hatchet",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe1.png"
+    }
+  ],
+  [
+    "Siege Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe3.png"
+    }
+  ],
+  [
+    "Spectral Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe8.png"
+    }
+  ],
+  [
+    "Tomahawk",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe3.png"
+    }
+  ],
+  [
+    "Vaal Hatchet",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe6.png"
+    }
+  ],
+  [
+    "War Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe5.png"
+    }
+  ],
+  [
+    "Wraith Axe",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe8.png"
+    }
+  ],
+  [
+    "Wrist Chopper",
+    {
+      "category": "One-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe4.png"
+    }
+  ],
+  [
+    "Ancestral Club",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace2.png"
+    }
+  ],
+  [
+    "Auric Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace7.png"
+    }
+  ],
+  [
+    "Barbed Club",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace3.png"
+    }
+  ],
+  [
+    "Battle Hammer",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace5.png"
+    }
+  ],
+  [
+    "Behemoth Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace9.png"
+    }
+  ],
+  [
+    "Bladed Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace6.png"
+    }
+  ],
+  [
+    "Boom Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/HeistOneHandMace.png"
+    }
+  ],
+  [
+    "Ceremonial Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace7.png"
+    }
+  ],
+  [
+    "Crack Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/HeistOneHandMace.png"
+    }
+  ],
+  [
+    "Dragon Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace9.png"
+    }
+  ],
+  [
+    "Dream Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace8.png"
+    }
+  ],
+  [
+    "Driftwood Club",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace1.png"
+    }
+  ],
+  [
+    "Flanged Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace6.png"
+    }
+  ],
+  [
+    "Flare Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/HeistOneHandMace.png"
+    }
+  ],
+  [
+    "Gavel",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace4.png"
+    }
+  ],
+  [
+    "Legion Hammer",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace5.png"
+    }
+  ],
+  [
+    "Nightmare Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace8.png"
+    }
+  ],
+  [
+    "Ornate Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace7.png"
+    }
+  ],
+  [
+    "Pernach",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace6.png"
+    }
+  ],
+  [
+    "Petrified Club",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace2.png"
+    }
+  ],
+  [
+    "Phantom Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace8.png"
+    }
+  ],
+  [
+    "Rock Breaker",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace4.png"
+    }
+  ],
+  [
+    "Spiked Club",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace3.png"
+    }
+  ],
+  [
+    "Stone Hammer",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace4.png"
+    }
+  ],
+  [
+    "Tenderizer",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace3.png"
+    }
+  ],
+  [
+    "Tribal Club",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace2.png"
+    }
+  ],
+  [
+    "War Hammer",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace5.png"
+    }
+  ],
+  [
+    "Wyrm Mace",
+    {
+      "category": "One-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandMaces/OneHandMace9.png"
+    }
+  ],
+  [
+    "Anarchic Spiritblade",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/HeistOneHandSword.png"
+    }
+  ],
+  [
+    "Ancient Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword6.png"
+    }
+  ],
+  [
+    "Antique Rapier",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier6.png"
+    }
+  ],
+  [
+    "Apex Rapier",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier8.png"
+    }
+  ],
+  [
+    "Baselard",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword4.png"
+    }
+  ],
+  [
+    "Basket Rapier",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier4.png"
+    }
+  ],
+  [
+    "Battered Foil",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier3.png"
+    }
+  ],
+  [
+    "Battle Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword5.png"
+    }
+  ],
+  [
+    "Broad Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword4.png"
+    }
+  ],
+  [
+    "Burnished Foil",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier3.png"
+    }
+  ],
+  [
+    "Capricious Spiritblade",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/HeistOneHandSword.png"
+    }
+  ],
+  [
+    "Charan's Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/TheGoddessUnleashed.png"
+    }
+  ],
+  [
+    "Copper Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword2.png"
+    }
+  ],
+  [
+    "Corsair Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword3.png"
+    }
+  ],
+  [
+    "Courtesan Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier9.png"
+    }
+  ],
+  [
+    "Cutlass",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword3.png"
+    }
+  ],
+  [
+    "Dragonbone Rapier",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier2.png"
+    }
+  ],
+  [
+    "Dragoon Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier9.png"
+    }
+  ],
+  [
+    "Dusk Blade",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword8.png"
+    }
+  ],
+  [
+    "Elder Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword6.png"
+    }
+  ],
+  [
+    "Elegant Foil",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier7.png"
+    }
+  ],
+  [
+    "Elegant Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword7.png"
+    }
+  ],
+  [
+    "Estoc",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier4.png"
+    }
+  ],
+  [
+    "Eternal Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword7.png"
+    }
+  ],
+  [
+    "Fancy Foil",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier7.png"
+    }
+  ],
+  [
+    "Fickle Spiritblade",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/HeistOneHandSword.png"
+    }
+  ],
+  [
+    "Gemstone Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword2.png"
+    }
+  ],
+  [
+    "Gladius",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword4.png"
+    }
+  ],
+  [
+    "Golden Blade",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/DemigodsAuthority.png"
+    }
+  ],
+  [
+    "Graceful Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword7.png"
+    }
+  ],
+  [
+    "Grappler",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword9.png"
+    }
+  ],
+  [
+    "Harpy Rapier",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier8.png"
+    }
+  ],
+  [
+    "Hook Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword9.png"
+    }
+  ],
+  [
+    "Jagged Foil",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier5.png"
+    }
+  ],
+  [
+    "Jewelled Foil",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier7.png"
+    }
+  ],
+  [
+    "Legion Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword5.png"
+    }
+  ],
+  [
+    "Midnight Blade",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword8.png"
+    }
+  ],
+  [
+    "Pecoraro",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier4.png"
+    }
+  ],
+  [
+    "Primeval Rapier",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier6.png"
+    }
+  ],
+  [
+    "Rusted Spike",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier1.png"
+    }
+  ],
+  [
+    "Rusted Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword1.png"
+    }
+  ],
+  [
+    "Sabre",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword3.png"
+    }
+  ],
+  [
+    "Serrated Foil",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier5.png"
+    }
+  ],
+  [
+    "Smallsword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier9.png"
+    }
+  ],
+  [
+    "Spiraled Foil",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier5.png"
+    }
+  ],
+  [
+    "Tempered Foil",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier3.png"
+    }
+  ],
+  [
+    "Thorn Rapier",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier8.png"
+    }
+  ],
+  [
+    "Tiger Hook",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword9.png"
+    }
+  ],
+  [
+    "Twilight Blade",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword8.png"
+    }
+  ],
+  [
+    "Vaal Blade",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword6.png"
+    }
+  ],
+  [
+    "Vaal Rapier",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier6.png"
+    }
+  ],
+  [
+    "Variscite Blade",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword2.png"
+    }
+  ],
+  [
+    "War Sword",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword5.png"
+    }
+  ],
+  [
+    "Whalebone Rapier",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier2.png"
+    }
+  ],
+  [
+    "Wyrmbone Rapier",
+    {
+      "category": "One-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Rapiers/Rapier2.png"
+    }
+  ],
+  [
+    "Artillery Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/ChiselQuiver.png"
+    }
+  ],
+  [
+    "Blunt Arrow Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverBlunt.png"
+    }
+  ],
+  [
+    "Broadhead Arrow Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverBroadhead.png"
+    }
+  ],
+  [
+    "Conductive Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Quiver3.png"
+    }
+  ],
+  [
+    "Cured Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Quiver1.png"
+    }
+  ],
+  [
+    "Fire Arrow Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverFire.png"
+    }
+  ],
+  [
+    "Heavy Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Quiver4.png"
+    }
+  ],
+  [
+    "Light Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Quiver5.png"
+    }
+  ],
+  [
+    "Ornate Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/TriggerQuiverUnique.png"
+    }
+  ],
+  [
+    "Penetrating Arrow Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverPenetrating.png"
+    }
+  ],
+  [
+    "Rugged Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/Quiver2.png"
+    }
+  ],
+  [
+    "Serrated Arrow Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverSerrated.png"
+    }
+  ],
+  [
+    "Sharktooth Arrow Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverSharktooth.png"
+    }
+  ],
+  [
+    "Spike-Point Arrow Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverSpike-Point.png"
+    }
+  ],
+  [
+    "Two-Point Arrow Quiver",
+    {
+      "category": "Quiver",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Quivers/QuiverTwo-Point.png"
+    }
+  ],
+  [
+    "Amethyst Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/AmethystRing.png"
+    }
+  ],
+  [
+    "Breach Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/BreachRing.png"
+    }
+  ],
+  [
+    "Cerulean Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/CeruleanRing.png"
+    }
+  ],
+  [
+    "Cogwork Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/HeistRing1.png"
+    }
+  ],
+  [
+    "Coral Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring2.png"
+    }
+  ],
+  [
+    "Diamond Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/DiamondRing.png"
+    }
+  ],
+  [
+    "Geodesic Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/HeistRing2.png"
+    }
+  ],
+  [
+    "Gold Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring4.png"
+    }
+  ],
+  [
+    "Golden Hoop",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/DemigodsBand.png"
+    }
+  ],
+  [
+    "Iolite Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/ChaosDmgRing.png"
+    }
+  ],
+  [
+    "Iron Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring1.png"
+    }
+  ],
+  [
+    "Jet Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/RingoftheVictor.png"
+    }
+  ],
+  [
+    "Moonstone Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/MoonstoneRing.png"
+    }
+  ],
+  [
+    "Opal Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/OpalRing.png"
+    }
+  ],
+  [
+    "Paua Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring3.png"
+    }
+  ],
+  [
+    "Prismatic Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring12.png"
+    }
+  ],
+  [
+    "Ruby Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring7.png"
+    }
+  ],
+  [
+    "Sapphire Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring6.png"
+    }
+  ],
+  [
+    "Steel Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/AdamantineRing.png"
+    }
+  ],
+  [
+    "Topaz Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Ring5.png"
+    }
+  ],
+  [
+    "Two-Stone Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/SapphireRuby.png"
+    }
+  ],
+  [
+    "Unset Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/Empty-Socket.png"
+    }
+  ],
+  [
+    "Vermillion Ring",
+    {
+      "category": "Ring",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Rings/VermillionRing.png"
+    }
+  ],
+  [
+    "Boot Blade",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger5.png"
+    }
+  ],
+  [
+    "Boot Knife",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger5.png"
+    }
+  ],
+  [
+    "Butcher Knife",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger3.png"
+    }
+  ],
+  [
+    "Carving Knife",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger3.png"
+    }
+  ],
+  [
+    "Copper Kris",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger6.png"
+    }
+  ],
+  [
+    "Demon Dagger",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger8.png"
+    }
+  ],
+  [
+    "Ezomyte Dagger",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger5.png"
+    }
+  ],
+  [
+    "Fiend Dagger",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger8.png"
+    }
+  ],
+  [
+    "Flashfire Blade",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/HeistRuneDagger.png"
+    }
+  ],
+  [
+    "Flickerflame Blade",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/HeistRuneDagger.png"
+    }
+  ],
+  [
+    "Golden Kris",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger6.png"
+    }
+  ],
+  [
+    "Imp Dagger",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger8.png"
+    }
+  ],
+  [
+    "Imperial Skean",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger7.png"
+    }
+  ],
+  [
+    "Infernal Blade",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/HeistRuneDagger.png"
+    }
+  ],
+  [
+    "Platinum Kris",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger6.png"
+    }
+  ],
+  [
+    "Royal Skean",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger7.png"
+    }
+  ],
+  [
+    "Skean",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger7.png"
+    }
+  ],
+  [
+    "Slaughter Knife",
+    {
+      "category": "Rune Dagger",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Daggers/Dagger3.png"
+    }
+  ],
+  [
+    "Abyssal Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter8.png"
+    }
+  ],
+  [
+    "Alternating Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/HeistSceptreElemental.png"
+    }
+  ],
+  [
+    "Blood Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter6.png"
+    }
+  ],
+  [
+    "Bronze Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter3.png"
+    }
+  ],
+  [
+    "Carnal Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter7.png"
+    }
+  ],
+  [
+    "Crystal Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter4.png"
+    }
+  ],
+  [
+    "Darkwood Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter2.png"
+    }
+  ],
+  [
+    "Driftwood Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter1.png"
+    }
+  ],
+  [
+    "Grinning Fetish",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter2.png"
+    }
+  ],
+  [
+    "Horned Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter9.png"
+    }
+  ],
+  [
+    "Iron Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter5.png"
+    }
+  ],
+  [
+    "Karui Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter2.png"
+    }
+  ],
+  [
+    "Lead Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter5.png"
+    }
+  ],
+  [
+    "Ochre Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter6.png"
+    }
+  ],
+  [
+    "Opal Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter4.png"
+    }
+  ],
+  [
+    "Oscillating Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/HeistSceptreElemental.png"
+    }
+  ],
+  [
+    "Platinum Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter5.png"
+    }
+  ],
+  [
+    "Quartz Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter4.png"
+    }
+  ],
+  [
+    "Ritual Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter7.png"
+    }
+  ],
+  [
+    "Royal Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter7.png"
+    }
+  ],
+  [
+    "Sambar Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter9.png"
+    }
+  ],
+  [
+    "Sekhem",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter3.png"
+    }
+  ],
+  [
+    "Shadow Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter8.png"
+    }
+  ],
+  [
+    "Stabilising Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/HeistSceptreElemental.png"
+    }
+  ],
+  [
+    "Stag Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter9.png"
+    }
+  ],
+  [
+    "Tyrant's Sekhem",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter3.png"
+    }
+  ],
+  [
+    "Vaal Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter6.png"
+    }
+  ],
+  [
+    "Void Sceptre",
+    {
+      "category": "Sceptre",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Scepters/scepter8.png"
+    }
+  ],
+  [
+    "Alder Spiked Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt2.png"
+    }
+  ],
+  [
+    "Alloyed Spiked Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt3.png"
+    }
+  ],
+  [
+    "Ancient Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt4.png"
+    }
+  ],
+  [
+    "Angelic Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt5.png"
+    }
+  ],
+  [
+    "Archon Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt5.png"
+    }
+  ],
+  [
+    "Baroque Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex5.png"
+    }
+  ],
+  [
+    "Battle Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex5.png"
+    }
+  ],
+  [
+    "Bone Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt3.png"
+    }
+  ],
+  [
+    "Branded Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt2.png"
+    }
+  ],
+  [
+    "Brass Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt6.png"
+    }
+  ],
+  [
+    "Bronze Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr5.png"
+    }
+  ],
+  [
+    "Buckskin Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr3.png"
+    }
+  ],
+  [
+    "Burnished Spiked Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt4.png"
+    }
+  ],
+  [
+    "Cardinal Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex4.png"
+    }
+  ],
+  [
+    "Cedar Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr4.png"
+    }
+  ],
+  [
+    "Ceremonial Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt5.png"
+    }
+  ],
+  [
+    "Champion Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt4.png"
+    }
+  ],
+  [
+    "Chiming Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt5.png"
+    }
+  ],
+  [
+    "Cold-attuned Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/DexHeistShield.png"
+    }
+  ],
+  [
+    "Colossal Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr6.png"
+    }
+  ],
+  [
+    "Compound Spiked Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt3.png"
+    }
+  ],
+  [
+    "Copper Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr5.png"
+    }
+  ],
+  [
+    "Corroded Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr2.png"
+    }
+  ],
+  [
+    "Corrugated Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex4.png"
+    }
+  ],
+  [
+    "Crested Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr7.png"
+    }
+  ],
+  [
+    "Crimson Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex4.png"
+    }
+  ],
+  [
+    "Crusader Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex5.png"
+    }
+  ],
+  [
+    "Driftwood Spiked Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt2.png"
+    }
+  ],
+  [
+    "Ebony Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr4.png"
+    }
+  ],
+  [
+    "Elegant Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex5.png"
+    }
+  ],
+  [
+    "Enameled Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex3.png"
+    }
+  ],
+  [
+    "Endothermic Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/DexHeistShield.png"
+    }
+  ],
+  [
+    "Etched Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt2.png"
+    }
+  ],
+  [
+    "Exhausting Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/IntHeistShield.png"
+    }
+  ],
+  [
+    "Exothermic Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/HeistShield.png"
+    }
+  ],
+  [
+    "Ezomyte Spiked Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt3.png"
+    }
+  ],
+  [
+    "Ezomyte Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr5.png"
+    }
+  ],
+  [
+    "Fir Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex2.png"
+    }
+  ],
+  [
+    "Fossilised Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt3.png"
+    }
+  ],
+  [
+    "Gilded Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex6.png"
+    }
+  ],
+  [
+    "Girded Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr6.png"
+    }
+  ],
+  [
+    "Goathide Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex1.png"
+    }
+  ],
+  [
+    "Golden Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex6.png"
+    }
+  ],
+  [
+    "Golden Flame",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/DemigodsShield.png"
+    }
+  ],
+  [
+    "Hammered Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex4.png"
+    }
+  ],
+  [
+    "Harmonic Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt5.png"
+    }
+  ],
+  [
+    "Heat-attuned Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/HeistShield.png"
+    }
+  ],
+  [
+    "Imperial Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex6.png"
+    }
+  ],
+  [
+    "Ironwood Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex2.png"
+    }
+  ],
+  [
+    "Ivory Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt3.png"
+    }
+  ],
+  [
+    "Jingling Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt5.png"
+    }
+  ],
+  [
+    "Lacewood Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt2.png"
+    }
+  ],
+  [
+    "Lacquered Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex3.png"
+    }
+  ],
+  [
+    "Laminated Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt3.png"
+    }
+  ],
+  [
+    "Layered Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt3.png"
+    }
+  ],
+  [
+    "Linden Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt2.png"
+    }
+  ],
+  [
+    "Magmatic Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/HeistShield.png"
+    }
+  ],
+  [
+    "Mahogany Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr4.png"
+    }
+  ],
+  [
+    "Maple Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex2.png"
+    }
+  ],
+  [
+    "Mirrored Spiked Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt4.png"
+    }
+  ],
+  [
+    "Mosaic Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt3.png"
+    }
+  ],
+  [
+    "Oak Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex2.png"
+    }
+  ],
+  [
+    "Ornate Spiked Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt5.png"
+    }
+  ],
+  [
+    "Painted Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex3.png"
+    }
+  ],
+  [
+    "Painted Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr7.png"
+    }
+  ],
+  [
+    "Pine Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex2.png"
+    }
+  ],
+  [
+    "Pinnacle Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr7.png"
+    }
+  ],
+  [
+    "Plank Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt1.png"
+    }
+  ],
+  [
+    "Polar Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/DexHeistShield.png"
+    }
+  ],
+  [
+    "Polished Spiked Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt4.png"
+    }
+  ],
+  [
+    "Rawhide Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr3.png"
+    }
+  ],
+  [
+    "Redwood Spiked Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt2.png"
+    }
+  ],
+  [
+    "Reinforced Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt4.png"
+    }
+  ],
+  [
+    "Reinforced Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr6.png"
+    }
+  ],
+  [
+    "Rotted Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex1.png"
+    }
+  ],
+  [
+    "Scarlet Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex4.png"
+    }
+  ],
+  [
+    "Shagreen Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr3.png"
+    }
+  ],
+  [
+    "Sovereign Spiked Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt5.png"
+    }
+  ],
+  [
+    "Spiked Bundle",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt1.png"
+    }
+  ],
+  [
+    "Spiked Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex3.png"
+    }
+  ],
+  [
+    "Spiny Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex3.png"
+    }
+  ],
+  [
+    "Splendid Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex5.png"
+    }
+  ],
+  [
+    "Splintered Tower Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStr1.png"
+    }
+  ],
+  [
+    "Steel Kite Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrInt4.png"
+    }
+  ],
+  [
+    "Studded Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex3.png"
+    }
+  ],
+  [
+    "Subsuming Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/IntHeistShield.png"
+    }
+  ],
+  [
+    "Supreme Spiked Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDexInt5.png"
+    }
+  ],
+  [
+    "Tarnished Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt4.png"
+    }
+  ],
+  [
+    "Teak Round Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldStrDex2.png"
+    }
+  ],
+  [
+    "Thorium Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt6.png"
+    }
+  ],
+  [
+    "Titanium Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt6.png"
+    }
+  ],
+  [
+    "Transfer-attuned Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/IntHeistShield.png"
+    }
+  ],
+  [
+    "Twig Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt1.png"
+    }
+  ],
+  [
+    "Vaal Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex4.png"
+    }
+  ],
+  [
+    "Vaal Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt4.png"
+    }
+  ],
+  [
+    "Walnut Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt2.png"
+    }
+  ],
+  [
+    "War Buckler",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldDex5.png"
+    }
+  ],
+  [
+    "Yew Spirit Shield",
+    {
+      "category": "Shield",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt2.png"
+    }
+  ],
+  [
+    "Battery Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/HeistStaff.png"
+    }
+  ],
+  [
+    "Crescent Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff8.png"
+    }
+  ],
+  [
+    "Eclipse Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff8.png"
+    }
+  ],
+  [
+    "Gnarled Branch",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff1.png"
+    }
+  ],
+  [
+    "Highborn Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff6.png"
+    }
+  ],
+  [
+    "Imperial Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff6.png"
+    }
+  ],
+  [
+    "Lathi",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff3.png"
+    }
+  ],
+  [
+    "Long Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff3.png"
+    }
+  ],
+  [
+    "Moon Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff8.png"
+    }
+  ],
+  [
+    "Primitive Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff2.png"
+    }
+  ],
+  [
+    "Primordial Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff2.png"
+    }
+  ],
+  [
+    "Quarterstaff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff3.png"
+    }
+  ],
+  [
+    "Reciprocation Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/HeistStaff.png"
+    }
+  ],
+  [
+    "Royal Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff6.png"
+    }
+  ],
+  [
+    "Transformer Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/HeistStaff.png"
+    }
+  ],
+  [
+    "Woodful Staff",
+    {
+      "category": "Staff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff2.png"
+    }
+  ],
+  [
+    "Thief's Trinket",
+    {
+      "category": "Trinket"
+    }
+  ],
+  [
+    "Abyssal Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe7.png"
+    }
+  ],
+  [
+    "Apex Cleaver",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/HeistTwoHandAxe.png"
+    }
+  ],
+  [
+    "Dagger Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe8.png"
+    }
+  ],
+  [
+    "Despot Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe6.png"
+    }
+  ],
+  [
+    "Double Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe5.png"
+    }
+  ],
+  [
+    "Ezomyte Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe4.png"
+    }
+  ],
+  [
+    "Fleshripper",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe8.png"
+    }
+  ],
+  [
+    "Gilded Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe6.png"
+    }
+  ],
+  [
+    "Headsman Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe4.png"
+    }
+  ],
+  [
+    "Honed Cleaver",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/HeistTwoHandAxe.png"
+    }
+  ],
+  [
+    "Jade Chopper",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe2.png"
+    }
+  ],
+  [
+    "Jasper Chopper",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe2.png"
+    }
+  ],
+  [
+    "Karui Chopper",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe2.png"
+    }
+  ],
+  [
+    "Labrys",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe5.png"
+    }
+  ],
+  [
+    "Noble Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe6.png"
+    }
+  ],
+  [
+    "Poleaxe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe4.png"
+    }
+  ],
+  [
+    "Prime Cleaver",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/HeistTwoHandAxe.png"
+    }
+  ],
+  [
+    "Shadow Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe7.png"
+    }
+  ],
+  [
+    "Stone Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe1.png"
+    }
+  ],
+  [
+    "Sundering Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe3.png"
+    }
+  ],
+  [
+    "Talon Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe8.png"
+    }
+  ],
+  [
+    "Timber Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe3.png"
+    }
+  ],
+  [
+    "Vaal Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe5.png"
+    }
+  ],
+  [
+    "Void Axe",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe7.png"
+    }
+  ],
+  [
+    "Woodsplitter",
+    {
+      "category": "Two-Handed Axe",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe3.png"
+    }
+  ],
+  [
+    "Blunt Force Condenser",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/HeistTwoHandMace.png"
+    }
+  ],
+  [
+    "Brass Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace6.png"
+    }
+  ],
+  [
+    "Colossus Mallet",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace3.png"
+    }
+  ],
+  [
+    "Coronal Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace8.png"
+    }
+  ],
+  [
+    "Crushing Force Magnifier",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/HeistTwoHandMace.png"
+    }
+  ],
+  [
+    "Dread Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace7.png"
+    }
+  ],
+  [
+    "Driftwood Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace1.png"
+    }
+  ],
+  [
+    "Fright Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace7.png"
+    }
+  ],
+  [
+    "Great Mallet",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace3.png"
+    }
+  ],
+  [
+    "Impact Force Propagator",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/HeistTwoHandMace.png"
+    }
+  ],
+  [
+    "Imperial Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace6.png"
+    }
+  ],
+  [
+    "Jagged Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace5.png"
+    }
+  ],
+  [
+    "Karui Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace2.png"
+    }
+  ],
+  [
+    "Mallet",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace3.png"
+    }
+  ],
+  [
+    "Meatgrinder",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace5.png"
+    }
+  ],
+  [
+    "Morning Star",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace8.png"
+    }
+  ],
+  [
+    "Piledriver",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace4.png"
+    }
+  ],
+  [
+    "Plated Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace6.png"
+    }
+  ],
+  [
+    "Sledgehammer",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace4.png"
+    }
+  ],
+  [
+    "Solar Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace8.png"
+    }
+  ],
+  [
+    "Spiny Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace5.png"
+    }
+  ],
+  [
+    "Steelhead",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace4.png"
+    }
+  ],
+  [
+    "Terror Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace7.png"
+    }
+  ],
+  [
+    "Totemic Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace2.png"
+    }
+  ],
+  [
+    "Tribal Maul",
+    {
+      "category": "Two-Handed Mace",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace2.png"
+    }
+  ],
+  [
+    "Banishing Blade",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/HeistTwoHandSword.png"
+    }
+  ],
+  [
+    "Bastard Sword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword3.png"
+    }
+  ],
+  [
+    "Blasting Blade",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/HeistTwoHandSword.png"
+    }
+  ],
+  [
+    "Butcher Sword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword2.png"
+    }
+  ],
+  [
+    "Corroded Blade",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword1.png"
+    }
+  ],
+  [
+    "Curved Blade",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword8.png"
+    }
+  ],
+  [
+    "Engraved Greatsword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword5.png"
+    }
+  ],
+  [
+    "Etched Greatsword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword5.png"
+    }
+  ],
+  [
+    "Exquisite Blade",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword8.png"
+    }
+  ],
+  [
+    "Ezomyte Blade",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword4.png"
+    }
+  ],
+  [
+    "Footman Sword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword3.png"
+    }
+  ],
+  [
+    "Headman's Sword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword2.png"
+    }
+  ],
+  [
+    "Highland Blade",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword4.png"
+    }
+  ],
+  [
+    "Infernal Sword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword7.png"
+    }
+  ],
+  [
+    "Keyblade",
+    {
+      "category": "Two-Handed Sword"
+    }
+  ],
+  [
+    "Lion Sword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword6.png"
+    }
+  ],
+  [
+    "Lithe Blade",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword8.png"
+    }
+  ],
+  [
+    "Longsword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword2.png"
+    }
+  ],
+  [
+    "Ornate Sword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword6.png"
+    }
+  ],
+  [
+    "Reaver Sword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword3.png"
+    }
+  ],
+  [
+    "Rebuking Blade",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/HeistTwoHandSword.png"
+    }
+  ],
+  [
+    "Spectral Sword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword7.png"
+    }
+  ],
+  [
+    "Tiger Sword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword6.png"
+    }
+  ],
+  [
+    "Two-Handed Sword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword4.png"
+    }
+  ],
+  [
+    "Vaal Greatsword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword5.png"
+    }
+  ],
+  [
+    "Wraith Sword",
+    {
+      "category": "Two-Handed Sword",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/TwoHandSword7.png"
+    }
+  ],
+  [
+    "Accumulator Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/HeistWand.png"
+    }
+  ],
+  [
+    "Assembler Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/HeistWand.png"
+    }
+  ],
+  [
+    "Carved Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand3.png"
+    }
+  ],
+  [
+    "Congregator Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/HeistWand.png"
+    }
+  ],
+  [
+    "Convoking Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/ConvokingWand.png"
+    }
+  ],
+  [
+    "Crystal Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand4.png"
+    }
+  ],
+  [
+    "Demon's Horn",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand2.png"
+    }
+  ],
+  [
+    "Driftwood Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand1.png"
+    }
+  ],
+  [
+    "Engraved Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand3.png"
+    }
+  ],
+  [
+    "Faun's Horn",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand2.png"
+    }
+  ],
+  [
+    "Goat's Horn",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand2.png"
+    }
+  ],
+  [
+    "Heathen Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand7.png"
+    }
+  ],
+  [
+    "Imbued Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand3.png"
+    }
+  ],
+  [
+    "Omen Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand6.png"
+    }
+  ],
+  [
+    "Opal Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand4.png"
+    }
+  ],
+  [
+    "Pagan Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand7.png"
+    }
+  ],
+  [
+    "Profane Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand7.png"
+    }
+  ],
+  [
+    "Prophecy Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand6.png"
+    }
+  ],
+  [
+    "Quartz Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand4.png"
+    }
+  ],
+  [
+    "Sage Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand6.png"
+    }
+  ],
+  [
+    "Serpent Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand5.png"
+    }
+  ],
+  [
+    "Spiraled Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand5.png"
+    }
+  ],
+  [
+    "Tornado Wand",
+    {
+      "category": "Wand",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand5.png"
+    }
+  ],
+  [
+    "Capacity Rod",
+    {
+      "category": "Warstaff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/HeistWarStaff.png"
+    }
+  ],
+  [
+    "Coiled Staff",
+    {
+      "category": "Warstaff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff5.png"
+    }
+  ],
+  [
+    "Eventuality Rod",
+    {
+      "category": "Warstaff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/HeistWarStaff.png"
+    }
+  ],
+  [
+    "Ezomyte Staff",
+    {
+      "category": "Warstaff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff4.png"
+    }
+  ],
+  [
+    "Foul Staff",
+    {
+      "category": "Warstaff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff7.png"
+    }
+  ],
+  [
+    "Iron Staff",
+    {
+      "category": "Warstaff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff4.png"
+    }
+  ],
+  [
+    "Judgement Staff",
+    {
+      "category": "Warstaff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff7.png"
+    }
+  ],
+  [
+    "Maelström Staff",
+    {
+      "category": "Warstaff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff5.png"
+    }
+  ],
+  [
+    "Military Staff",
+    {
+      "category": "Warstaff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff4.png"
+    }
+  ],
+  [
+    "Potentiality Rod",
+    {
+      "category": "Warstaff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/HeistWarStaff.png"
+    }
+  ],
+  [
+    "Serpentine Staff",
+    {
+      "category": "Warstaff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff5.png"
+    }
+  ],
+  [
+    "Vile Staff",
+    {
+      "category": "Warstaff",
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff7.png"
+    }
+  ],
+  [
+    "Chromium Glennach Cairns Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Chromium Haewark Hamlet Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Chromium Lex Ejoris Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Chromium Lex Proxima Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Chromium Lira Arthain Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Chromium New Vastir Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Chromium Tirn's End Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Chromium Valdo's Rest Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Cobalt Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Crimson Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Golden Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Ivory Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Platinum Glennach Cairns Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Platinum Haewark Hamlet Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Platinum Lex Ejoris Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Platinum Lex Proxima Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Platinum Lira Arthain Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Platinum New Vastir Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Platinum Tirn's End Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Platinum Valdo's Rest Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Titanium Glennach Cairns Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Titanium Haewark Hamlet Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Titanium Lex Ejoris Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Titanium Lex Proxima Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Titanium Lira Arthain Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Titanium New Vastir Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Titanium Tirn's End Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Titanium Valdo's Rest Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ],
+  [
+    "Viridian Watchstone",
+    {
+      "category": "Watchstone"
+    }
+  ]
+]

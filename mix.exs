@@ -10,7 +10,8 @@ defmodule PoeBuildPricer.MixProject do
       compilers: [:gettext] ++ Mix.compilers(),
       start_permanent: Mix.env() == :prod,
       aliases: aliases(),
-      deps: deps()
+      deps: deps(),
+      preferred_cli_env: [espec: :test],
     ]
   end
 
@@ -41,6 +42,7 @@ defmodule PoeBuildPricer.MixProject do
       {:jason, "~> 1.2"},
       {:plug_cowboy, "~> 2.5"},
       {:credo, "~> 1.5", only: [:dev, :test], runtime: false},
+      {:espec, "~> 1.8.3", only: :test},
     ]
   end
 
