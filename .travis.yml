@@ -1,0 +1,6 @@
+language: elixir
+dist: xenial
+elixir:
+  - '1.12.3'
+script:
+  - bin/scripts/travis.sh
